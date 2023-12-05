@@ -1,0 +1,663 @@
+Airport Oaks
+Albany, New Zealand
+Alfriston, New Zealand
+Algies Bay
+Arch Hill, New Zealand
+Ardmore, New Zealand
+Army Bay
+Auckland CBD
+Auckland waterfront
+Avondale, Auckland
+B
+Balmoral, New Zealand
+Bayswater, New Zealand
+Bayview, New Zealand
+Beach Haven, New Zealand
+Belmont, Auckland
+Birkdale, New Zealand
+Birkenhead, New Zealand
+Blockhouse Bay
+Botany Downs
+Botany, New Zealand
+Brookby
+Browns Bay, New Zealand
+Bucklands Beach
+Burswood, New Zealand
+C
+Campbells Bay
+Castor Bay
+Chapel Downs
+Chatswood, New Zealand
+Cheltenham, Auckland
+Clendon Park
+Clevedon, New Zealand
+Clover Park
+Cockle Bay, New Zealand
+Conifer Grove
+Crown Hill, New Zealand
+D
+Dannemora, New Zealand
+Devonport, New Zealand
+Duders Point
+E
+East Coast Bays
+Eastern Beach, New Zealand
+Eden Terrace
+Eden Valley, New Zealand
+Ellerslie, New Zealand
+Epsom, New Zealand
+F
+Fairview Heights, New Zealand
+Farm Cove, New Zealand
+Favona
+Flat Bush
+Forrest Hill, New Zealand
+Freemans Bay
+G
+The Gardens, Auckland
+Glen Eden, New Zealand
+Glen Innes, New Zealand
+Glendene, New Zealand
+Glendowie, New Zealand
+Glenfield North
+Glenfield, New Zealand
+Golflands
+Goodwood Heights
+Grafton, New Zealand
+Green Bay, New Zealand
+Greenhithe, New Zealand
+Greenlane
+Greenmount, New Zealand
+Greenwoods Corner, New Zealand
+Grey Lynn
+H
+Half Moon Bay, Auckland
+Hatfields Beach
+Hauraki
+Henderson North, New Zealand
+Henderson, New Zealand
+Herne Bay, New Zealand
+Highbrook
+Highbury, Auckland
+Highland Park, New Zealand
+Hillcrest, Auckland
+Hillpark, Auckland
+Hillsborough, Auckland
+Hingaia
+Hobson Street, Auckland
+Hobsonville
+Homai
+Howick, New Zealand
+Huia, New Zealand
+Huntington Park, New Zealand
+Hunua
+K
+Kauri Park
+Kaurilands
+Kelston, New Zealand
+Keri Hill
+Kingsland, New Zealand
+Kohimarama
+Konini
+L
+Laingholm
+Lincoln, Auckland
+Long Bay, New Zealand
+Lynfield, New Zealand
+M
+McLaren Park, New Zealand
+Mairangi Bay
+Manukau
+Manukau Heights
+Manurewa
+Manurewa East
+Marlborough, Auckland
+Massey, New Zealand
+Matakatia
+Maungakiekie / One Tree Hill
+Meadowbank, New Zealand
+Mechanics Bay
+Mellons Bay
+Middlemore
+Milford, New Zealand
+Millwater, New Zealand
+Mission Bay, New Zealand
+Morningside, Auckland
+Mount Albert, New Zealand
+Mount Eden
+Mount Wellington, New Zealand
+Murrays Bay
+N
+Narrow Neck, New Zealand
+New Lynn
+New Windsor, New Zealand
+Newmarket, New Zealand
+Newton, New Zealand
+North Harbour, New Zealand
+Northcote Central
+Northcote, New Zealand
+Northcross
+Northpark, New Zealand
+O
+One Tree Hill, New Zealand
+Onehunga
+Onetangi
+
+Orakei
+Oranga
+Oratia
+Orere Point
+Oteha
+Owairaka
+P
+Pahurehure
+Pakuranga
+Pakuranga Heights
+Palm Beach, New Zealand
+Panmure, New Zealand
+Papakura
+Papakura City
+Papakura North
+Papatoetoe
+Parau
+Paremoremo
+Parnell, New Zealand
+Penrose, New Zealand
+Pinehill, New Zealand
+Point Chevalier
+Point England
+Ponsonby, New Zealand
+R
+Randwick Park
+Red Beach, New Zealand
+Red Hill, New Zealand
+Remuera
+Rosebank, Auckland
+Rosedale, Auckland
+Rosehill, New Zealand
+Mount Roskill
+Rothesay Bay
+Royal Heights
+Royal Oak, New Zealand
+S
+Saint Heliers
+Saint Marys Bay, New Zealand
+Sandringham, New Zealand
+Sandspit, New Zealand
+Schnapper Rock
+Shamrock Park, New Zealand
+Shelly Park
+Somerville, New Zealand
+Southdown, New Zealand
+St Johns, New Zealand
+Stanley Bay, New Zealand
+Stanmore Bay
+Stillwater, Auckland
+Stonefields
+Sunnyhills
+Sunnynook, New Zealand
+Sunnyvale
+Surfdale
+Swanson
+Takanini
+Takapuna
+Tamaki City
+A
+Ashmore, New Zealand
+B
+Beerescourt
+C
+Callum Brae
+Chartwell, Hamilton
+Chedworth Park
+Claudelands
+Crawshaw, New Zealand
+D
+Deanwell
+Dinsdale, New Zealand
+E
+Enderley
+F
+Fairfield, Hamilton
+Fairview Downs
+Fitzroy, Hamilton
+Flagstaff, Hamilton
+Forest Lake, New Zealand
+Frankton, Hamilton
+G
+Glenview, New Zealand
+Grandview Heights, New Zealand
+H
+Hamilton Central
+Hamilton East, New Zealand
+Hamilton Lake (suburb)
+Hamilton North, New Zealand
+Hamilton West, New Zealand
+Harrowfield
+Hillcrest, Hamilton
+Huntington, New Zealand
+L
+Livingstone, Hamilton
+M
+Maeroa
+Magellan Rise (suburb)
+Melville, New Zealand
+N
+Nawton, New Zealand
+Naylor, New Zealand
+P
+Peacocke, New Zealand
+Pukete
+Q
+Queenwood
+R
+River Road, Hamilton
+Riverlea, New Zealand
+Rotokauri
+Rototuna
+Ruakura
+S
+Silverdale, Hamilton
+Somerset Heights
+St Andrews, Hamilton
+St James Park, New Zealand
+St Petersburg, New Zealand
+Stonebridge, New Zealand
+T
+Te Rapa
+Temple View
+Thornton, Hamilton
+W
+Western Heights, Hamilton
+Whitiora
+Burleigh, New Zealand
+M
+Mayfield, Blenheim
+R
+Redwoodtown
+S
+Springlands
+W
+Witherlea
+Addington, New Zealand
+Aidanfield
+Aranui
+Avondale, Christchurch
+Avonhead
+Avonside
+B
+Barrington, New Zealand
+Beckenham, New Zealand
+Belfast, New Zealand
+Bexley, New Zealand
+Bishopdale, Christchurch
+Bottle Lake, New Zealand
+Bromley, New Zealand
+Brooklands, Christchurch
+Bryndwr
+Burnside, Christchurch
+Burwood, New Zealand
+C
+Cashmere, New Zealand
+Clifton, Christchurch
+Cracroft, New Zealand
+D
+Dallington, New Zealand
+Diamond Harbour, New Zealand
+Duvauchelle
+E
+Edgeware
+F
+Fendalton
+Ferrymead
+H
+Halswell
+Harewood, New Zealand
+Heathcote Valley
+Hei Hei
+Hillmorton, New Zealand
+Hillsborough, Christchurch
+Hoon Hay
+Hornby, New Zealand
+Huntsbury
+I
+Ilam, New Zealand
+K
+Kennedys Bush
+L
+Lansdowne, Christchurch
+Linwood, New Zealand
+M
+Mairehau
+Merivale, Christchurch
+Middleton, New Zealand
+Moncks Bay
+Mount Pleasant, New Zealand
+Murray Aynsley Hill
+N
+New Brighton, New Zealand
+O
+Opawa
+P
+Papanui
+Parklands, New Zealand
+Phillipstown, New Zealand
+R
+Redcliffs
+Redwood, Christchurch
+Riccarton, New Zealand
+Richmond Hill, New Zealand
+Richmond, Christchurch
+S
+St Albans, New Zealand
+St Martins, New Zealand
+Scarborough, New Zealand
+Shirley, New Zealand
+Sockburn, New Zealand
+Somerfield, New Zealand
+Southshore, New Zealand
+Spencerville, New Zealand
+Spreydon
+St Andrews Hill
+Strowan
+Sumner, New Zealand
+Sydenham, New Zealand
+T
+Teddington, New Zealand
+U
+Upper Riccarton
+W
+Waimairi Beach
+Wainoni, Christchurch
+Waltham, New Zealand
+Westmorland, New Zealand
+Wigram
+Woolston, New Zealand
+Andersons Bay
+B
+Brighton, New Zealand
+Broad Bay, New Zealand
+Brockville, New Zealand
+Burnside, Dunedin
+C
+Calton Hill, New Zealand
+Careys Bay
+Caversham, New Zealand
+Challis, New Zealand
+City Rise
+Company Bay
+Corstorphine, New Zealand
+D
+Dunedin North
+F
+Fairfield, Otago
+G
+Glenleith
+Green Island, New Zealand
+H
+Halfway Bush
+Harington Point
+K
+Kaikorai Valley
+Kensington, New Zealand
+L
+Leith Valley
+M
+Macandrew Bay
+Maori Hill
+Maryhill, New Zealand
+Mornington, Dunedin
+Mosgiel
+Musselburgh, New Zealand
+N
+North East Valley
+O
+Ocean Grove, New Zealand
+Opoho
+P
+Pine Hill, New Zealand
+Port Chalmers
+Portobello, New Zealand
+Pukehiki
+R
+Ravensbourne, New Zealand
+Roseneath, Otago
+Roslyn, Dunedin
+S
+St Clair, New Zealand
+St Kilda, New Zealand
+St Leonards, Dunedin
+Sawyers Bay
+Shiel Hill
+South Dunedin
+W
+Wakari
+Waldronville
+Warehouse Precinct
+Waverley, Dunedin
+Wingatui
+Woodhaugh
+Awapuni, Gisborne
+E
+Elgin, New Zealand
+G
+Gisborne Central
+K
+Kaiti, New Zealand
+M
+Makaraka, New Zealand
+Mangapapa
+O
+Okitu
+R
+Riverdale, New Zealand
+T
+Tamarau
+Te Hapara
+V
+Victoria, Gisborne
+W
+Whataupoko
+Blaketown
+C
+Cobden, New Zealand
+G
+Greymouth Central
+K
+Karoro, New Zealand
+W
+Wharemoa
+Appleby, Invercargill
+C
+Clifton, Invercargill
+G
+Georgetown, New Zealand
+Gladstone, Invercargill
+Glengarry, New Zealand
+Grasmere, New Zealand
+Greenhills, New Zealand
+H
+Hawthorndale
+Heidelberg, New Zealand
+I
+Invercargill Central
+K
+Kew, Invercargill
+Kingswell, New Zealand
+N
+Newfield, New Zealand
+O
+Otatara
+P
+Prestonville, New Zealand
+R
+Richmond, Invercargill
+Rosedale, Invercargill
+S
+Strathern, New Zealand
+T
+Tisbury, New Zealand
+W
+Waikiwi
+West Invercargill
+Windsor, Invercargill
+Woodend, Southland
+Kuripuni
+L
+Lansdowne, Masterton
+M
+Masterton Central
+Masterton East
+Masterton West
+S
+Solway, New Zealand
+Fairy Springs
+Fenton Park
+Fordlands
+G
+Glenholme, Rotorua
+H
+Hannahs Bay
+Hillcrest, Rotorua
+Holdens Bay
+K
+Kawaha Point
+Koutu
+L
+Lynmore
+M
+Mangakakahi
+Matipo Heights
+N
+Ngāpuna
+Ngongotahā
+O
+Ohinemutu
+Ōwhata
+P
+Pomare, Bay of Plenty
+Pukehangi
+R
+Rotorua Central
+S
+Selwyn Heights
+Springfield, Rotorua
+Sunnybrook, Bay of Plenty
+U
+Utuhina
+V
+Victoria, Rotorua
+W
+Westbrook, Rotorua
+Western Heights, Rotorua
+Whakarewarewa
+Albert Park
+Altona North
+Balwyn
+Berwick
+Blackburn
+Brighton
+Carlton
+Caroline Springs
+Croydon
+Dandenong
+Docklands
+Doncaster
+East Melbourne
+Elwood
+Fitzroy
+Footscray
+Frankston
+Glen Waverley
+Hawthorn East
+Hoppers Crossing
+Kensington
+Langwarrin
+Lynbrook
+Melbourne (CBD)
+Mill Park
+Mount Eliza
+Noble Park
+North Melbourne
+Patterson Lakes
+Point Cook
+Port Melbourne
+Reservoir
+Richmond
+Rowville
+Southbank
+St Kilda
+Sunbury
+Templestowe
+Werribee
+West Melbourne
+Yarraville
+Armidale
+Auburn
+Bankstown
+Blacktown
+Bondi
+Castle Hill
+Coffs Harbour
+Collaroy
+Cowra
+Dubbo
+Eastwood
+Homebush West
+Hurstville
+Ingleburn
+Kellyville
+Kincumber
+Kings Langley
+Liverpool
+Macquarie Fields
+Manly
+Matraville
+Meadowbank
+Merrylands
+Mount Druitt
+Mudgee
+Newtown
+North Narrabeen
+Paddington
+Parramatta
+Pemulwuy
+Port Macquarie
+Quakers Hill
+Queanbeyan
+Rouse Hill
+Seven Hills
+Surry Hills
+Sydney (CBD)
+Wentworthville	
+Arundel
+Ashgrove
+Bracken Ridge
+Brighton
+Brisbane (CBD)
+Currumbin Waters
+Ferny Grove
+Fortitude Valley
+Hope Island
+Ipswich
+Manly
+Milton
+Moorooka
+New Farm
+Nundah
+Oxley
+Paddington
+Paradise Point
+Petrie
+Pimpama
+Port Douglas
+Redcliffe
+Sandgate
+Southport
+Springfield Lakes
+Stafford
+Surfers Paradise
+Toowong
+Toowoomba City
+West End
+Woodridge

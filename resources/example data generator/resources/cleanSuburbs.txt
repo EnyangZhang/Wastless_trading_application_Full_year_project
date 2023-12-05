@@ -1,0 +1,948 @@
+Airport Oaks
+Albany
+Alfriston
+Algies Bay
+Arch Hill
+Ardmore
+Army Bay
+Auckland CBD
+Auckland waterfront
+Avondale
+Balmoral
+Bayswater
+Bayview
+Beach Haven
+Belmont
+Birkdale
+Birkenhead
+Blockhouse Bay
+Botany Downs
+Botany
+Brookby
+Browns Bay
+Bucklands Beach
+Burswood
+Campbells Bay
+Castor Bay
+Chapel Downs
+Chatswood
+Cheltenham
+Clendon Park
+Clevedon
+Clover Park
+Cockle Bay
+Conifer Grove
+Crown Hill
+Dannemora
+Devonport
+Duders Point
+East Coast Bays
+Eastern Beach
+Eden Terrace
+Eden Valley
+Ellerslie
+Epsom
+Fairview Heights
+Farm Cove
+Favona
+Flat Bush
+Forrest Hill
+Freemans Bay
+The Gardens
+Glen Eden
+Glen Innes
+Glendene
+Glendowie
+Glenfield North
+Glenfield
+Golflands
+Goodwood Heights
+Grafton
+Green Bay
+Greenhithe
+Greenlane
+Greenmount
+Greenwoods Corner
+Grey Lynn
+Half Moon Bay
+Hatfields Beach
+Hauraki
+Henderson North
+Henderson
+Herne Bay
+Highbrook
+Highbury
+Highland Park
+Hillcrest
+Hillpark
+Hillsborough
+Hingaia
+Hobson Street
+Hobsonville
+Homai
+Howick
+Huia
+Huntington Park
+Hunua
+Kauri Park
+Kaurilands
+Kelston
+Keri Hill
+Kingsland
+Kohimarama
+Konini
+Laingholm
+Lincoln
+Long Bay
+Lynfield
+McLaren Park
+Mairangi Bay
+Manukau
+Manukau Heights
+Manurewa
+Manurewa East
+Marlborough
+Massey
+Matakatia
+Maungakiekie / One Tree Hill
+Meadowbank
+Mechanics Bay
+Mellons Bay
+Middlemore
+Milford
+Millwater
+Mission Bay
+Morningside
+Mount Albert
+Mount Eden
+Mount Wellington
+Murrays Bay
+Narrow Neck
+New Lynn
+New Windsor
+Newmarket
+Newton
+North Harbour
+Northcote Central
+Northcote
+Northcross
+Northpark
+One Tree Hill
+Onehunga
+Onetangi
+Orakei
+Oranga
+Oratia
+Orere Point
+Oteha
+Owairaka
+Pahurehure
+Pakuranga
+Pakuranga Heights
+Palm Beach
+Panmure
+Papakura
+Papakura City
+Papakura North
+Papatoetoe
+Parau
+Paremoremo
+Parnell
+Penrose
+Pinehill
+Point Chevalier
+Point England
+Ponsonby
+Randwick Park
+Red Beach
+Red Hill
+Remuera
+Rosebank
+Rosedale
+Rosehill
+Mount Roskill
+Rothesay Bay
+Royal Heights
+Royal Oak
+Saint Heliers
+Saint Marys Bay
+Sandringham
+Sandspit
+Schnapper Rock
+Shamrock Park
+Shelly Park
+Somerville
+Southdown
+St Johns
+Stanley Bay
+Stanmore Bay
+Stillwater
+Stonefields
+Sunnyhills
+Sunnynook
+Sunnyvale
+Surfdale
+Swanson
+Takanini
+Takapuna
+Tamaki City
+Ashmore
+Beerescourt
+Callum Brae
+Chartwell
+Chedworth Park
+Claudelands
+Crawshaw
+Deanwell
+Dinsdale
+Enderley
+Fairfield
+Fairview Downs
+Fitzroy
+Flagstaff
+Forest Lake
+Frankton
+Glenview
+Grandview Heights
+Hamilton Central
+Hamilton East
+Hamilton Lake (suburb)
+Hamilton North
+Hamilton West
+Harrowfield
+Hillcrest
+Huntington
+Livingstone
+Maeroa
+Magellan Rise (suburb)
+Melville
+Nawton
+Naylor
+Peacocke
+Pukete
+Queenwood
+River Road
+Riverlea
+Rotokauri
+Rototuna
+Ruakura
+Silverdale
+Somerset Heights
+St Andrews
+St James Park
+St Petersburg
+Stonebridge
+Te Rapa
+Temple View
+Thornton
+Western Heights
+Whitiora
+Burleigh
+Mayfield
+Redwoodtown
+Springlands
+Witherlea
+Addington
+Aidanfield
+Aranui
+Avondale
+Avonhead
+Avonside
+Barrington
+Beckenham
+Belfast
+Bexley
+Bishopdale
+Bottle Lake
+Bromley
+Brooklands
+Bryndwr
+Burnside
+Burwood
+Cashmere
+Clifton
+Cracroft
+Dallington
+Diamond Harbour
+Duvauchelle
+Edgeware
+Fendalton
+Ferrymead
+Halswell
+Harewood
+Heathcote Valley
+Hei Hei
+Hillmorton
+Hillsborough
+Hoon Hay
+Hornby
+Huntsbury
+Ilam
+Kennedys Bush
+Lansdowne
+Linwood
+Mairehau
+Merivale
+Middleton
+Moncks Bay
+Mount Pleasant
+Murray Aynsley Hill
+New Brighton
+Opawa
+Papanui
+Parklands
+Phillipstown
+Redcliffs
+Redwood
+Riccarton
+Richmond Hill
+Richmond
+St Albans
+St Martins
+Scarborough
+Shirley
+Sockburn
+Somerfield
+Southshore
+Spencerville
+Spreydon
+St Andrews Hill
+Strowan
+Sumner
+Sydenham
+Teddington
+Upper Riccarton
+Waimairi Beach
+Wainoni
+Waltham
+Westmorland
+Wigram
+Woolston
+Andersons Bay
+Brighton
+Broad Bay
+Brockville
+Burnside
+Calton Hill
+Careys Bay
+Caversham
+Challis
+City Rise
+Company Bay
+Corstorphine
+Dunedin North
+Fairfield
+Glenleith
+Green Island
+Halfway Bush
+Harington Point
+Kaikorai Valley
+Kensington
+Leith Valley
+Macandrew Bay
+Maori Hill
+Maryhill
+Mornington
+Mosgiel
+Musselburgh
+North East Valley
+Ocean Grove
+Opoho
+Pine Hill
+Port Chalmers
+Portobello
+Pukehiki
+Ravensbourne
+Roseneath
+Roslyn
+St Clair
+St Kilda
+St Leonards
+Sawyers Bay
+Shiel Hill
+South Dunedin
+Wakari
+Waldronville
+Warehouse Precinct
+Waverley
+Wingatui
+Woodhaugh
+Awapuni
+Elgin
+Gisborne Central
+Kaiti
+Makaraka
+Mangapapa
+Okitu
+Riverdale
+Tamarau
+Te Hapara
+Victoria
+Whataupoko
+Blaketown
+Cobden
+Greymouth Central
+Karoro
+Wharemoa
+Appleby
+Clifton
+Georgetown
+Gladstone
+Glengarry
+Grasmere
+Greenhills
+Hawthorndale
+Heidelberg
+Invercargill Central
+Kew
+Kingswell
+Newfield
+Otatara
+Prestonville
+Richmond
+Rosedale
+Strathern
+Tisbury
+Waikiwi
+West Invercargill
+Windsor
+Woodend
+Kuripuni
+Lansdowne
+Masterton Central
+Masterton East
+Masterton West
+Solway
+Fairy Springs
+Fenton Park
+Fordlands
+Glenholme
+Arundel
+Ashgrove
+Bracken Ridge
+Brighton
+Brisbane (CBD)
+Currumbin Waters
+Ferny Grove
+Fortitude Valley
+Hope Island
+Ipswich
+Manly
+Milton
+Moorooka
+New Farm
+Nundah
+Oxley
+Paddington
+Paradise Point
+Petrie
+Pimpama
+Port Douglas
+Redcliffe
+Sandgate
+Southport
+Springfield Lakes
+Stafford
+Surfers Paradise
+Toowong
+Toowoomba City
+West End
+Woodridge
+Armidale
+Auburn
+Bankstown
+Blacktown
+Bondi
+Castle Hill
+Coffs Harbour
+Collaroy
+Cowra
+Dubbo
+Eastwood
+Homebush West
+Hurstville
+Ingleburn
+Kellyville
+Kincumber
+Kings Langley
+Liverpool
+Macquarie Fields
+Manly
+Matraville
+Meadowbank
+Merrylands
+Mount Druitt
+Mudgee
+Newtown
+North Narrabeen
+Paddington
+Parramatta
+Pemulwuy
+Port Macquarie
+Quakers Hill
+Queanbeyan
+Rouse Hill
+Seven Hills
+Surry Hills
+Sydney (CBD)
+Wentworthville
+Albert Park
+Altona North
+Balwyn
+Berwick
+Blackburn
+Brighton
+Carlton
+Caroline Springs
+Croydon
+Dandenong
+Docklands
+Doncaster
+East Melbourne
+Elwood
+Fitzroy
+Footscray
+Frankston
+Glen Waverley
+Hawthorn East
+Hoppers Crossing
+Kensington
+Langwarrin
+Lynbrook
+Melbourne (CBD)
+Mill Park
+Mount Eliza
+Noble Park
+North Melbourne
+Patterson Lakes
+Point Cook
+Port Melbourne
+Reservoir
+Richmond
+Rowville
+Southbank
+St Kilda
+Sunbury
+Templestowe
+Werribee
+West Melbourne
+YarravilleAirport Oaks
+Albany
+Alfriston
+Algies Bay
+Arch Hill
+Ardmore
+Army Bay
+Auckland CBD
+Auckland waterfront
+Avondale
+Balmoral
+Bayswater
+Bayview
+Beach Haven
+Belmont
+Birkdale
+Birkenhead
+Blockhouse Bay
+Botany Downs
+Botany
+Brookby
+Browns Bay
+Bucklands Beach
+Burswood
+Campbells Bay
+Castor Bay
+Chapel Downs
+Chatswood
+Cheltenham
+Clendon Park
+Clevedon
+Clover Park
+Cockle Bay
+Conifer Grove
+Crown Hill
+Dannemora
+Devonport
+Duders Point
+East Coast Bays
+Eastern Beach
+Eden Terrace
+Eden Valley
+Ellerslie
+Epsom
+Fairview Heights
+Farm Cove
+Favona
+Flat Bush
+Forrest Hill
+Freemans Bay
+The Gardens
+Glen Eden
+Glen Innes
+Glendene
+Glendowie
+Glenfield North
+Glenfield
+Golflands
+Goodwood Heights
+Grafton
+Green Bay
+Greenhithe
+Greenlane
+Greenmount
+Greenwoods Corner
+Grey Lynn
+Half Moon Bay
+Hatfields Beach
+Hauraki
+Henderson North
+Henderson
+Herne Bay
+Highbrook
+Highbury
+Highland Park
+Hillcrest
+Hillpark
+Hillsborough
+Hingaia
+Hobson Street
+Hobsonville
+Homai
+Howick
+Huia
+Huntington Park
+Hunua
+Kauri Park
+Kaurilands
+Kelston
+Keri Hill
+Kingsland
+Kohimarama
+Konini
+Laingholm
+Lincoln
+Long Bay
+Lynfield
+McLaren Park
+Mairangi Bay
+Manukau
+Manukau Heights
+Manurewa
+Manurewa East
+Marlborough
+Massey
+Matakatia
+Maungakiekie / One Tree Hill
+Meadowbank
+Mechanics Bay
+Mellons Bay
+Middlemore
+Milford
+Millwater
+Mission Bay
+Morningside
+Mount Albert
+Mount Eden
+Mount Wellington
+Murrays Bay
+Narrow Neck
+New Lynn
+New Windsor
+Newmarket
+Newton
+North Harbour
+Northcote Central
+Northcote
+Northcross
+Northpark
+One Tree Hill
+Onehunga
+Onetangi
+
+Orakei
+Oranga
+Oratia
+Orere Point
+Oteha
+Owairaka
+Pahurehure
+Pakuranga
+Pakuranga Heights
+Palm Beach
+Panmure
+Papakura
+Papakura City
+Papakura North
+Papatoetoe
+Parau
+Paremoremo
+Parnell
+Penrose
+Pinehill
+Point Chevalier
+Point England
+Ponsonby
+Randwick Park
+Red Beach
+Red Hill
+Remuera
+Rosebank
+Rosedale
+Rosehill
+Mount Roskill
+Rothesay Bay
+Royal Heights
+Royal Oak
+Saint Heliers
+Saint Marys Bay
+Sandringham
+Sandspit
+Schnapper Rock
+Shamrock Park
+Shelly Park
+Somerville
+Southdown
+St Johns
+Stanley Bay
+Stanmore Bay
+Stillwater
+Stonefields
+Sunnyhills
+Sunnynook
+Sunnyvale
+Surfdale
+Swanson
+Takanini
+Takapuna
+Tamaki City
+Ashmore
+Beerescourt
+Callum Brae
+Chartwell
+Chedworth Park
+Claudelands
+Crawshaw
+Deanwell
+Dinsdale
+Enderley
+Fairfield
+Fairview Downs
+Fitzroy
+Flagstaff
+Forest Lake
+Frankton
+Glenview
+Grandview Heights
+Hamilton Central
+Hamilton East
+Hamilton Lake (suburb)
+Hamilton North
+Hamilton West
+Harrowfield
+Hillcrest
+Huntington
+Livingstone
+Maeroa
+Magellan Rise (suburb)
+Melville
+Nawton
+Naylor
+Peacocke
+Pukete
+Queenwood
+River Road
+Riverlea
+Rotokauri
+Rototuna
+Ruakura
+Silverdale
+Somerset Heights
+St Andrews
+St James Park
+St Petersburg
+Stonebridge
+Te Rapa
+Temple View
+Thornton
+Western Heights
+Whitiora
+Burleigh
+Mayfield
+Redwoodtown
+Springlands
+Witherlea
+Addington
+Aidanfield
+Aranui
+Avondale
+Avonhead
+Avonside
+Barrington
+Beckenham
+Belfast
+Bexley
+Bishopdale
+Bottle Lake
+Bromley
+Brooklands
+Bryndwr
+Burnside
+Burwood
+Cashmere
+Clifton
+Cracroft
+Dallington
+Diamond Harbour
+Duvauchelle
+Edgeware
+Fendalton
+Ferrymead
+Halswell
+Harewood
+Heathcote Valley
+Hei Hei
+Hillmorton
+Hillsborough
+Hoon Hay
+Hornby
+Huntsbury
+Ilam
+Kennedys Bush
+Lansdowne
+Linwood
+Mairehau
+Merivale
+Middleton
+Moncks Bay
+Mount Pleasant
+Murray Aynsley Hill
+New Brighton
+Opawa
+Papanui
+Parklands
+Phillipstown
+Redcliffs
+Redwood
+Riccarton
+Richmond Hill
+Richmond
+St Albans
+St Martins
+Scarborough
+Shirley
+Sockburn
+Somerfield
+Southshore
+Spencerville
+Spreydon
+St Andrews Hill
+Strowan
+Sumner
+Sydenham
+Teddington
+Upper Riccarton
+Waimairi Beach
+Wainoni
+Waltham
+Westmorland
+Wigram
+Woolston
+Andersons Bay
+Brighton
+Broad Bay
+Brockville
+Burnside
+Calton Hill
+Careys Bay
+Caversham
+Challis
+City Rise
+Company Bay
+Corstorphine
+Dunedin North
+Fairfield
+Glenleith
+Green Island
+Halfway Bush
+Harington Point
+Kaikorai Valley
+Kensington
+Leith Valley
+Macandrew Bay
+Maori Hill
+Maryhill
+Mornington
+Mosgiel
+Musselburgh
+North East Valley
+Ocean Grove
+Opoho
+Pine Hill
+Port Chalmers
+Portobello
+Pukehiki
+Ravensbourne
+Roseneath
+Roslyn
+St Clair
+St Kilda
+St Leonards
+Sawyers Bay
+Shiel Hill
+South Dunedin
+Wakari
+Waldronville
+Warehouse Precinct
+Waverley
+Wingatui
+Woodhaugh
+Awapuni
+Elgin
+Gisborne Central
+Kaiti
+Makaraka
+Mangapapa
+Okitu
+Riverdale
+Tamarau
+Te Hapara
+Victoria
+Whataupoko
+Blaketown
+Cobden
+Greymouth Central
+Karoro
+Wharemoa
+Appleby
+Clifton
+Georgetown
+Gladstone
+Glengarry
+Grasmere
+Greenhills
+Hawthorndale
+Heidelberg
+Invercargill Central
+Kew
+Kingswell
+Newfield
+Otatara
+Prestonville
+Richmond
+Rosedale
+Strathern
+Tisbury
+Waikiwi
+West Invercargill
+Windsor
+Woodend
+Kuripuni
+Lansdowne
+Masterton Central
+Masterton East
+Masterton West
+Solway
+Fairy Springs
+Fenton Park
+Fordlands
+Glenholme

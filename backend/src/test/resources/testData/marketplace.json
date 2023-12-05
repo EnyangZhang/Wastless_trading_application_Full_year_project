@@ -1,0 +1,194 @@
+{
+  "forSale": [
+    {
+      "id": 1,
+      "creator": {
+        "id": 100,
+        "firstName": "John",
+        "lastName": "Smith",
+        "middleName": "Hector",
+        "nickname": "Jonny",
+        "bio": "Likes long walks on the beach",
+        "email": "johnsmith99@gmail.com",
+        "dateOfBirth": "1999-04-27",
+        "phoneNumber": "+64 3 555 0129",
+        "homeAddress": {
+          "streetNumber": "3/24",
+          "streetName": "Ilam Road",
+          "suburb": "Upper Riccarton",
+          "city": "Christchurch",
+          "region": "Canterbury",
+          "country": "New Zealand",
+          "postcode": "90210"
+        },
+        "created": "2020-07-14T14:32:00Z",
+        "role": "user",
+        "businessesAdministered": []
+      },
+      "section": "ForSale",
+      "created": "2021-07-15T05:10:00Z",
+      "displayPeriodEnd": "2021-07-29T05:10:00Z",
+      "title": "1982 Lada Samara",
+      "description": "Beige, suitable for a hen house. Fair condition. Some rust. As is, where is. Will swap for budgerigar.",
+      "keywords": [
+        {
+          "id": 600,
+          "name": "Vehicle",
+          "created": "2021-07-15T05:10:00Z"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "creator": {
+        "id": 100,
+        "firstName": "John",
+        "lastName": "Smith",
+        "middleName": "Hector",
+        "nickname": "Jonny",
+        "bio": "Likes long walks on the beach",
+        "email": "johnsmith99@gmail.com",
+        "dateOfBirth": "1999-04-27",
+        "phoneNumber": "+64 3 555 0129",
+        "homeAddress": {
+          "streetNumber": "3/24",
+          "streetName": "Ilam Road",
+          "suburb": "Upper Riccarton",
+          "city": "Christchurch",
+          "region": "Canterbury",
+          "country": "New Zealand",
+          "postcode": "90210"
+        },
+        "created": "2020-07-14T14:32:00Z",
+        "role": "user",
+        "businessesAdministered": []
+      },
+      "section": "ForSale",
+      "created": "2021-07-15T05:10:00Z",
+      "displayPeriodEnd": "2021-07-29T05:10:00Z",
+      "title": "1982 Lada Samara",
+      "description": "Beige, suitable for a hen house. Fair condition. Some rust. As is, where is. Will swap for budgerigar.",
+      "keywords": [
+        {
+          "id": 600,
+          "name": "Vehicle",
+          "created": "2021-07-15T05:10:00Z"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "creator": {
+        "id": 100,
+        "firstName": "John",
+        "lastName": "Smith",
+        "middleName": "Hector",
+        "nickname": "Jonny",
+        "bio": "Likes long walks on the beach",
+        "email": "johnsmith99@gmail.com",
+        "dateOfBirth": "1999-04-27",
+        "phoneNumber": "+64 3 555 0129",
+        "homeAddress": {
+          "streetNumber": "3/24",
+          "streetName": "Ilam Road",
+          "suburb": "Upper Riccarton",
+          "city": "Christchurch",
+          "region": "Canterbury",
+          "country": "New Zealand",
+          "postcode": "90210"
+        },
+        "created": "2020-07-14T14:32:00Z",
+        "role": "user",
+        "businessesAdministered": []
+      },
+      "section": "ForSale",
+      "created": "2021-07-15T05:10:00Z",
+      "displayPeriodEnd": "2021-07-29T05:10:00Z",
+      "title": "1982 Lada Samara",
+      "description": "Beige, suitable for a hen house. Fair condition. Some rust. As is, where is. Will swap for budgerigar.",
+      "keywords": [
+        {
+          "id": 600,
+          "name": "Vehicle",
+          "created": "2021-07-15T05:10:00Z"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "creator": {
+        "id": 100,
+        "firstName": "John",
+        "lastName": "Smith",
+        "middleName": "Hector",
+        "nickname": "Jonny",
+        "bio": "Likes long walks on the beach",
+        "email": "johnsmith99@gmail.com",
+        "dateOfBirth": "1999-04-27",
+        "phoneNumber": "+64 3 555 0129",
+        "homeAddress": {
+          "streetNumber": "3/24",
+          "streetName": "Ilam Road",
+          "suburb": "Upper Riccarton",
+          "city": "Christchurch",
+          "region": "Canterbury",
+          "country": "New Zealand",
+          "postcode": "90210"
+        },
+        "created": "2020-07-14T14:32:00Z",
+        "role": "user",
+        "businessesAdministered": []
+      },
+      "section": "ForSale",
+      "created": "2021-07-15T05:10:00Z",
+      "displayPeriodEnd": "2021-07-29T05:10:00Z",
+      "title": "1982 Lada Samara",
+      "description": "Beige, suitable for a hen house. Fair condition. Some rust. As is, where is. Will swap for budgerigar.",
+      "keywords": [
+        {
+          "id": 600,
+          "name": "Vehicle",
+          "created": "2021-07-15T05:10:00Z"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "creator": {
+        "id": 100,
+        "firstName": "John",
+        "lastName": "Smith",
+        "middleName": "Hector",
+        "nickname": "Jonny",
+        "bio": "Likes long walks on the beach",
+        "email": "johnsmith99@gmail.com",
+        "dateOfBirth": "1999-04-27",
+        "phoneNumber": "+64 3 555 0129",
+        "homeAddress": {
+          "streetNumber": "3/24",
+          "streetName": "Ilam Road",
+          "suburb": "Upper Riccarton",
+          "city": "Christchurch",
+          "region": "Canterbury",
+          "country": "New Zealand",
+          "postcode": "90210"
+        },
+        "created": "2020-07-14T14:32:00Z",
+        "role": "user",
+        "businessesAdministered": []
+      },
+      "section": "ForSale",
+      "created": "2021-07-15T05:10:00Z",
+      "displayPeriodEnd": "2021-07-29T05:10:00Z",
+      "title": "1982 Lada Samara",
+      "description": "Beige, suitable for a hen house. Fair condition. Some rust. As is, where is. Will swap for budgerigar.",
+      "keywords": [
+        {
+          "id": 600,
+          "name": "Vehicle",
+          "created": "2021-07-15T05:10:00Z"
+        }
+      ]
+    }
+  ]
+}

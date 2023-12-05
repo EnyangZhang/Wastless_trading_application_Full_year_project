@@ -1,0 +1,138 @@
+/*
+ * Created on Wed Feb 10 2021
+ *
+ * The Unlicense
+ * This is free and unencumbered software released into the public domain.
+ *
+ * Anyone is free to copy, modify, publish, use, compile, sell, or distribute
+ * this software, either in source code form or as a compiled binary, for any
+ * purpose, commercial or non-commercial, and by any means.
+ *
+ * In jurisdictions that recognize copyright laws, the author or authors of this
+ * software dedicate any and all copyright interest in the software to the public
+ * domain. We make this dedication for the benefit of the public at large and to
+ * the detriment of our heirs and successors. We intend this dedication to be an
+ * overt act of relinquishment in perpetuity of all present and future rights to
+ * this software under copyright law.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ * ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+ * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ *
+ * For more information, please refer to <https://unlicense.org>
+ */
+
+
+plugins {
+    id 'org.springframework.boot' version '2.4.2'
+    id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+    id 'java'
+    id 'jacoco'
+    id 'org.sonarqube' version '3.0'
+}
+
+group = 'Team 13'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '11'
+
+configurations {
+    compileOnly {
+        extendsFrom annotationProcessor
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    // ability to use JPA in spring
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    // ability to expose JPA as REST services (discouraged, but used for example purpose here)
+    implementation 'org.springframework.boot:spring-boot-starter-data-rest'
+    // ability to expose RESTFul services (with controllers)
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    // security starter package
+    implementation 'org.springframework.boot:spring-boot-starter-security'
+    implementation 'org.springframework.security:spring-security-test'
+    // connector to mariadb (mysql) database
+    implementation 'org.mariadb.jdbc:mariadb-java-client:2.7.2'
+    implementation 'org.springframework.boot:spring-boot-starter-security'
+    // allow access to array utilties
+    compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.3.2'
+    // simple json parser
+    compile 'com.googlecode.json-simple:json-simple:1.1.1'
+
+
+    // allow access to array utilties
+    compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.3.2'
+    // ability to use in-memory database (for testing only)
+    runtimeOnly 'com.h2database:h2'
+
+    // use spring boot mocking test framework
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
+    testImplementation 'org.mockito:mockito-inline'
+    // Cucumber dependencies
+    testImplementation 'io.cucumber:cucumber-java:6.9.1'
+    testImplementation 'io.cucumber:cucumber-junit:6.9.1'
+    testImplementation 'io.cucumber:cucumber-spring:6.9.1'
+
+    // use code pre-processor to generate boiler plate code (e.g., getters)
+    compileOnly 'org.projectlombok:lombok:1.18.16'
+    annotationProcessor 'org.projectlombok:lombok:1.18.16'
+    testCompileOnly 'org.projectlombok:lombok:1.18.16'
+    testAnnotationProcessor 'org.projectlombok:lombok:1.18.16'
+
+    // JSON dependency
+    implementation 'org.json:json:20171018'
+
+    // Javax validation
+    implementation 'org.springframework.boot:spring-boot-starter-validation'
+
+    // JWT dependency
+    implementation 'io.jsonwebtoken:jjwt:0.9.1'
+}
+
+// create a specific task to run cucumber tests
+task cucumber(type: Test) {
+    description = "Runs JUnit 4 tests (cucumber tests)"
+    testLogging.showStandardStreams = true
+    useJUnit()
+}
+
+// configure test task to run on JUnit 5
+test {
+    description = "Runs JUnit 5/Jupiter tests (unit tests)"
+    testLogging.showStandardStreams = true
+    useJUnitPlatform()
+    finalizedBy jacocoTestReport
+}
+
+// Jacoco test coverage configuration
+jacoco {
+    toolVersion = "0.8.6"
+}
+
+// select what reports Jacoco generates and where to put them
+jacocoTestReport {
+    reports {
+        xml.enabled true
+        xml.destination file("${buildDir}/jacoco/test-report.xml")
+        csv.enabled false
+        html.destination file("${buildDir}/jacoco/html")
+    }
+}
+
+// Sonarqube specific configuration
+sonarqube {
+    properties {
+        property "sonar.projectKey", "team-600-server"
+        property "sonar.projectName", "team 600 - server"
+        property "sonar.sourceEncoding", "UTF-8"
+        property "sonar.host.url", "https://csse-s302g6.canterbury.ac.nz/sonarqube/"
+        property "sonar.login", "65de345fa771a4804a09df0b87b9a9865544c97e"
+    }
+}
